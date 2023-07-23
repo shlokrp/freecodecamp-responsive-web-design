@@ -1,0 +1,33 @@
+
+body{
+    background-color: beige;
+      font-family: 'Roboto';
+      line-height: 1.5;
+      text-align: center;
+      color: #333;
+      margin: 0; 
+    }
+    h3{
+      padding: 10px;
+    }
+  
+  ul {
+      max-width: 550px;
+      margin: 0 auto 30px auto;
+      text-align: left;
+      line-height: 1.6; 
+  }
+  blockquote{
+    padding: 10px;
+    max-width: 550px;
+      margin: 0 auto 30px auto;
+      text-align: left;
+    
+  } 
+  #image{
+    max-width: 100%;
+    display: block;
+     margin: 0 auto;
+     height: auto;
+  } 
+  
